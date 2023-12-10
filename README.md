@@ -80,13 +80,13 @@ We prioritize simplicity for clarity and maintainability, ensuring each code blo
 | Overall Impression |   | ✔ |   |   |
 
 ## Group Assessment
-Main Programmer - Ocampo, Zhenrel - 34%
-
-Troubleshooter - Bon, Peter Amador - 22%
-
-Debugger - Herilla, Laurence - 22%
-
-Beta Tester - Castillo, Khastin - 22%
+|  SR-CODE |       MEMBER      | GRADE |   CONTRIBUTION  |
+|:--------:|:-----------------:|:-----:|:---------------:|
+| 21-02313 | OCAMPO, ZHENREL   | 34%   | Lead Programmer |
+| 20-58433 | BON, PETER AMADOR | 22%   | Troubleshooter  |
+| 21-58727 | HERILLA, LAURENCE | 22%   | Debugger        |
+| 21-02154 | CASTILLO, KHASTIN | 22%   | Beta Tester     |
+|          | TOTAL             | 100%  |                 |
 
 ## License
 
