@@ -34,9 +34,13 @@ Error Handling:
 ## Technologies Used
 
 Python: The primary programming language.
+
 Pandas: Used for data manipulation and analysis.
+
 Plotly: Enables the creation of interactive and visually appealing graphs.
+
 SQLite3: The database management system for storing expense records.
+
 Tkinter and ttkbootstrap: Provide the graphical user interface for the desktop application.
 
 ## License
