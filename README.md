@@ -48,14 +48,32 @@ Starting Page:
 ![image](https://github.com/thizizzen/duling-sa-coding/assets/118614992/b9760e39-fdb3-499a-af1c-e12a51bf3819)
 
 Main Page:
-![image](https://github.com/thizizzen/duling-sa-coding/assets/118614992/ec93a6c5-9f39-462e-b450-c39f80002fb7)
+![image](https://github.com/thizizzen/duling-sa-coding/assets/118614992/7e42c6e7-c25c-4bbe-89c9-b94c8230030c)
+
 
 Graphing Page:
-![image](https://github.com/thizizzen/duling-sa-coding/assets/118614992/059cb072-1cb8-4074-a73b-ceeb1bde7594)
-
-## Implementing what we learned
+![image](https://github.com/thizizzen/duling-sa-coding/assets/118614992/a019a408-f0c0-4aa5-b42a-3ada1eb5b42a)
 
 
+## Implementation
+DRY Method (Don't Repeat Yourself):
+
+In our code, We embrace the DRY principle to avoid code duplication. Take, for example, the create_treeview function in main.py. It's designed to instantiate and configure a Treeview widget, consolidating the widget creation logic in one place for efficient reuse. This not only streamlines the code but also enhances maintainability.
+
+
+OOP Principles (Object-Oriented Programming):
+
+We incorporated object-oriented programming (OOP) principles by introducing the Budget class to manage interactions with the database. Creating an instance, such as budget = Budget(), enables the use of dot notation to access methods and properties seamlessly across the codebase.
+
+Simplicity and Robustness:
+
+I prioritize simplicity for clarity and maintainability, ensuring each code block serves a specific purpose. While basic error handling is in place using messagebox.showwarning, there's room for further enhancements to fortify the code's robustness. The aim is a balanced approach, making the application both easy to understand and resilient.
+
+## Individual Assessment
+Ocampo, Zhenrel - 35%
+Bon, Peter Amador - 21.66%
+Herilla, Laurence - 21.66%
+Castillo, Khastin - 21.66%
 
 ## License
 
