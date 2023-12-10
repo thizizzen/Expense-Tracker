@@ -10,6 +10,7 @@ The Expense Tracker allows users to record and track their spending by category.
 
 Record Management:
 
+
 • Add new records to the expense table.
 
 • Delete records in the expense table.
@@ -18,11 +19,13 @@ Record Management:
 
 • Search for specific records by title, price, or category.
 
+
 Graphical Representation:
 
 • Visualize expenses through interactive graphs.
 
 • Categories are represented for a clear overview of spending patterns.
+
 
 Error Handling:
 
