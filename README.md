@@ -70,13 +70,13 @@ Simplicity and Robustness:
 We prioritize simplicity for clarity and maintainability, ensuring each code block serves a specific purpose. While basic error handling is in place using messagebox.showwarning, there's room for further enhancements to fortify the code's robustness. The aim is a balanced approach, making the application both easy to understand and resilient.
 
 ## Individual Assessment
-Main Programmer - Ocampo, Zhenrel - 35%
+Main Programmer - Ocampo, Zhenrel - 34%
 
-Troubleshooter - Bon, Peter Amador - 21.66%
+Troubleshooter - Bon, Peter Amador - 22%
 
-Troubleshooter - Herilla, Laurence - 21.66%
+Debugger - Herilla, Laurence - 22%
 
-Troubleshooter - Castillo, Khastin - 21.66%
+Beta Tester - Castillo, Khastin - 22%
 
 ## License
 
