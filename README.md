@@ -67,12 +67,15 @@ We incorporated object-oriented programming (OOP) principles by introducing the 
 
 Simplicity and Robustness:
 
-I prioritize simplicity for clarity and maintainability, ensuring each code block serves a specific purpose. While basic error handling is in place using messagebox.showwarning, there's room for further enhancements to fortify the code's robustness. The aim is a balanced approach, making the application both easy to understand and resilient.
+We prioritize simplicity for clarity and maintainability, ensuring each code block serves a specific purpose. While basic error handling is in place using messagebox.showwarning, there's room for further enhancements to fortify the code's robustness. The aim is a balanced approach, making the application both easy to understand and resilient.
 
 ## Individual Assessment
 Ocampo, Zhenrel - 35%
+
 Bon, Peter Amador - 21.66%
+
 Herilla, Laurence - 21.66%
+
 Castillo, Khastin - 21.66%
 
 ## License
