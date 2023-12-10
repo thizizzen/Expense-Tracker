@@ -43,6 +43,20 @@ SQLite3: The database management system for storing expense records.
 
 Tkinter and ttkbootstrap: Provide the graphical user interface for the desktop application.
 
+## Screenshots of the Program
+Starting Page:
+![image](https://github.com/thizizzen/duling-sa-coding/assets/118614992/b9760e39-fdb3-499a-af1c-e12a51bf3819)
+
+Main Page:
+![image](https://github.com/thizizzen/duling-sa-coding/assets/118614992/ec93a6c5-9f39-462e-b450-c39f80002fb7)
+
+Graphing Page:
+![image](https://github.com/thizizzen/duling-sa-coding/assets/118614992/059cb072-1cb8-4074-a73b-ceeb1bde7594)
+
+## Implementing what we learned
+
+
+
 ## License
 
 This project is licensed under the MIT License.
