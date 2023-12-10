@@ -1,6 +1,6 @@
 # Expense Tracker
 
-Expense Tracker is a desktop application designed to help you manage your expenses effectively. This README provides detailed instructions and insights into the project.
+Expense Tracker is a desktop application that aligns with SDG#1, SDG#8 and SDG#12 designed to help you manage your expenses effectively. This README provides detailed instructions and insights into the project.
 
 ## Overview
 
@@ -70,13 +70,13 @@ Simplicity and Robustness:
 We prioritize simplicity for clarity and maintainability, ensuring each code block serves a specific purpose. While basic error handling is in place using messagebox.showwarning, there's room for further enhancements to fortify the code's robustness. The aim is a balanced approach, making the application both easy to understand and resilient.
 
 ## Individual Assessment
-Ocampo, Zhenrel - 35%
+Main Programmer - Ocampo, Zhenrel - 35%
 
-Bon, Peter Amador - 21.66%
+Troubleshooter - Bon, Peter Amador - 21.66%
 
-Herilla, Laurence - 21.66%
+Troubleshooter - Herilla, Laurence - 21.66%
 
-Castillo, Khastin - 21.66%
+Troubleshooter - Castillo, Khastin - 21.66%
 
 ## License
 
